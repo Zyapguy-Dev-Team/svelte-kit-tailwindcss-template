@@ -5,7 +5,7 @@ NOTE: This repo uses PNPM instead of NPM.
 npm i -g pnpm@latest
 ```
 
-## Install latest dependecies
+## Install latest dependencies
 ```bash
 pnpm update
 ```
