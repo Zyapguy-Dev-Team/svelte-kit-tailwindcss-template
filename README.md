@@ -2,7 +2,7 @@ NOTE: This repo uses PNPM instead of NPM.
 
 ## Install PNPM
 ```bash
-npm i -D pnpm@latest
+npm i -g pnpm@latest
 ```
 
 ## Install latest dependecies
